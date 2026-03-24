@@ -62,13 +62,8 @@ End-to-end connectivity between different VLANs and networks was tested using IC
 
 ## Project Topology
 
-Screenshots of the network topology and configuration outputs are included in this repository:
-
-- Network Topology
-- VLAN Configuration
-- Trunk Links
-- Routing Table
-- Connectivity Tests
+## Network Topology
+![Network Topology](topology.png)
 
 ---
 
