@@ -60,7 +60,6 @@ End-to-end connectivity between different VLANs and networks was tested using IC
 
 ---
 
-## Project Topology
 
 ## Network Topology
 ![Network Topology](topology.png)
